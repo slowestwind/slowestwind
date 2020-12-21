@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- ✨ It's Me Arvind Sharma. ✨ 
+https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif
+
+ ✨ It's me, *Arvind Sharma.* ✨ 
 
 
 - 🔭 I’m currently working on BlogWithDjango Application. 
