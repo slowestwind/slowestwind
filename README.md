@@ -4,9 +4,9 @@
 
  ✨ It's me, Arvind Sharma. ✨ 
  
-[![HitCount](http://hits.dwyl.com/slowestwind.svg)](http://hits.dwyl.com/slowestwind)
+[![HitCount](http://hits.dwyl.com/slowestwind.svg)](http://hits.dwyl.com/slowestwind)]
 
-- 🔭 I’m currently working on BlogWithDjango Application. 
+- 🔭 I’m currently working on small laravel projects.
 - 🌱 I’m currently learning Full-Stack-Development.
 - 📫 Want to reach me? Email now, I am waiting!
 - 😄 Pronouns: Otorhinolaryngologist
